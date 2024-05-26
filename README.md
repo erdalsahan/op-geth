@@ -2,7 +2,7 @@
 
 Golang execution layer implementation of the Ethereum protocol.
 
-[![API Reference](
+[![API Reference]( 
 https://pkg.go.dev/badge/github.com/ethereum/go-ethereum
 )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum)
